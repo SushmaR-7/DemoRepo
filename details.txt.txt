@@ -1,0 +1,20 @@
+details of notes
+----------------
+*git config --global user.name "FIRST_NAME LAST_NAME"
+
+*git config --global user.email "email"
+
+*git config --global user.password "password"
+
+
+commands used 
+------------
+git add filename
+git add -A        (generalization)
+git add Details.txt ((specialization))
+
+
+
+git commit
+
+git push
