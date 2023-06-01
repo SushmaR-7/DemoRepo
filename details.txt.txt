@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 details of notes
 ----------------
 *git config --global user.name "FIRST_NAME LAST_NAME"
@@ -18,3 +19,6 @@ git add Details.txt ((specialization))
 git commit
 
 git push
+=======
+details of git hub
+>>>>>>> b7ab7c8c2a78e3cce8feca2a399b36b682f67f26
